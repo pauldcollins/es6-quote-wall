@@ -1,7 +1,7 @@
-# ES6 Quote wall
-A wall of quotes, built using ES6 and classes and Flexbox.
+# ES6 Quote wall app
+A wall of quotes, built using ES6 classes. Just barebones Javascript, with a little help from JQuery for animation.
 
-Barebones Javascript, with a little help from JQuery.
+On the CSS front, using Flexbox for layout.
 
 Just clone and drag the **index.html** into your browser.
 
